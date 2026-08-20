@@ -175,7 +175,7 @@ Tenaga Nasional        Nestlé               Unilever             UBS
                     ┌─────────────────────────┐
                     │ Node.js / Express API   │
                     │                         │
-                    │ Health Checks            │
+                    │ Health Checks           │
                     │ Metrics • Alerts • APIs │
                     └────────────┬────────────┘
                                  │
