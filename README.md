@@ -236,8 +236,6 @@ Developer
 
 ---
 
----
-
 # 🎓 EDUCATION
 
 ### Bachelor of Technology — B.Tech
