@@ -236,19 +236,6 @@ Developer
 
 ---
 
-# 📈 LIVE GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arunessential&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunessential&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunessential&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
 ---
 
 # 🎓 EDUCATION
